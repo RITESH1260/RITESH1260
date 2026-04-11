@@ -1,4 +1,5 @@
 ## Hi 👋 I am Ritesh Rawat
+And I am a Science Student
 
 <!--
 **RITESH1260/RITESH1260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
