@@ -1,5 +1,6 @@
 ## Hi 👋 I am Ritesh Rawat
 And I am a Science Student
+And I also continue my study in college
 
 
 <!--
